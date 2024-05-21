@@ -1,7 +1,7 @@
 // ==UserScript==
 // @ScriptName        vivo TWS 3降级(理论适用于iQOO TWS 1)
 // @Author            酷安@AmigoYao
-// @UpdateTime        2024-05-19
+// @UpdateTime        2024-05-21
 // @Suitable          自行观看“# > ”注释内容
 // @Attention         如需引用请注明出处，谢谢！
 
@@ -9,4 +9,4 @@
 
 hostname = ptsou-wsdl.vivo.com.cn
 # 必须显示2.12.8才可以降级至2.12.2
-2023111416401402288784.bin$ url 302 2023082115033514967657.bin
+2024032717400327954303.bin$ url 302 2023082115033514967657.bin
